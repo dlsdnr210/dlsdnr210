@@ -196,5 +196,5 @@ GitHub 협업 과정에서 개인 저장소와 기준 저장소의 역할이 섞
 
 ## 📫 Contact
 
-- GitHub : 이곳에 GitHub 주소 입력
-- Email : 이곳에 이메일 입력
+- GitHub : https://github.com/dlsdnr210)
+- Email : dlsdnr1210@gmail.com
