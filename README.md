@@ -24,23 +24,40 @@ Java·Spring 기반 웹 개발과 Python 기반 데이터 처리 경험을 바�
 
 ## 🛠 Tech Stack
 
-### Backend
-`Java` `Spring` `Spring Boot` `REST API`
+## Backend
 
-### Data
-`Python` `Pandas` `Web Crawling`
+![Java](https://img.shields.io/badge/Java-1F2328?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-1F2328?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1F2328?style=flat&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-1F2328?style=flat)
 
-### Database
-`MySQL` `Oracle` `H2`
+## Data
 
-### Frontend
-`HTML` `CSS` `JavaScript`
+![Python](https://img.shields.io/badge/Python-1F2328?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1F2328?style=flat&logo=pandas&logoColor=white)
+![Web Crawling](https://img.shields.io/badge/Web%20Crawling-1F2328?style=flat)
 
-### Search & Visualization
-`Elasticsearch` `Kibana`
+## Database
 
-### Collaboration
-`Git` `GitHub`
+![MySQL](https://img.shields.io/badge/MySQL-1F2328?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-1F2328?style=flat&logo=oracle&logoColor=white)
+![H2](https://img.shields.io/badge/H2-1F2328?style=flat)
+
+## Frontend
+
+![HTML](https://img.shields.io/badge/HTML-1F2328?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1F2328?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2328?style=flat&logo=javascript&logoColor=white)
+
+## Search & Visualization
+
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1F2328?style=flat&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-1F2328?style=flat&logo=kibana&logoColor=white)
+
+## Collaboration
+
+![Git](https://img.shields.io/badge/Git-1F2328?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1F2328?style=flat&logo=github&logoColor=white)
 
 ---
 
